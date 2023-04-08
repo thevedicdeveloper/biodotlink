@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../biodotlink-frontend"
+		},
+		{
+			"path": "../biodotlink-backend"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
